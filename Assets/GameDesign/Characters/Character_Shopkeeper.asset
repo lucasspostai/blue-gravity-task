@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14e2143d453d461448e223237d1099e9, type: 3}
+  m_Name: Character_Shopkeeper
+  m_EditorClassIdentifier: 
+  WalkSpeed: 10
+  EquippedHat: {fileID: 11400000, guid: ff1273b19a69150448a949fc51b33b0e, type: 2}
+  EquippedClothes: {fileID: 11400000, guid: b44b6a64ad52a7d4393e9d581c9340c2, type: 2}
+  InventoryItems:
+  - {fileID: 11400000, guid: b44b6a64ad52a7d4393e9d581c9340c2, type: 2}
+  - {fileID: 11400000, guid: c499b2dc209cf0e47a36664adb0a8cb8, type: 2}
+  - {fileID: 11400000, guid: e0de3501bb541444d903516e3091adbb, type: 2}
+  - {fileID: 11400000, guid: 51f414f4e7d785842b8c0c6f3e436bca, type: 2}
+  Coins: 60

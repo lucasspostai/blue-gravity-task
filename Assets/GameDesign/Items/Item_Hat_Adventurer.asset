@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04134f4b5cc5f7c4fbb209a9aec4bd68, type: 3}
+  m_Name: Item_Hat_Adventurer
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 61066231, guid: 45d6f8e747f295e4a8b5ff9f3bc924e9, type: 3}
+  LibraryAsset: {fileID: 7108339969198208228, guid: b59d90c640ccc4647be26d6872935337, type: 3}
+  Type: 0
+  Price: 10
